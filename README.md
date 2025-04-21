@@ -9,12 +9,12 @@ Repositorio de notebooks y recursos para el curso **Relatividad y Gravitación**
 - **notebooks/**: Colección de notebooks de Jupyter y Google Colab por sección del libro.
   - `N01_Introduccion.ipynb`: Presentación y configuración.
   - `N02_Transformaciones_Cap1.2.ipynb`: Transformaciones galileanas y de Lorentz.
-  - `N03_Dilatacion_Contraccion.ipynb`: Dilatación del tiempo y contracción de longitud.
+  - `N03_20250422_Consequences_Lorentz_Cap1.3_RelGrav.ipynb`: Dilatación temporal, Contracción de distancias, Relatividad de la simultaneidad, Efecto Doppler y transformación de velocidad
   - …
 
 
 
-- **recursos**: Aqui puedes encontrar el libro guia, y demás textos asociados
+- **recursos/**: Aqui puedes encontrar el libro guia, y demás textos asociados
 
 ---
 
